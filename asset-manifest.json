@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yisyang/static/css/main.69847ccd.css",
-    "main.js": "/yisyang/static/js/main.49460808.js",
-    "static/js/707.d1949c78.chunk.js": "/yisyang/static/js/707.d1949c78.chunk.js",
-    "static/js/249.8723075a.chunk.js": "/yisyang/static/js/249.8723075a.chunk.js",
-    "static/js/27.e05dd6df.chunk.js": "/yisyang/static/js/27.e05dd6df.chunk.js",
-    "static/media/github-icon.svg": "/yisyang/static/media/github-icon.cc72f0952f8f5179b4c3406bed5fb8cc.svg",
-    "index.html": "/yisyang/index.html",
-    "static/media/documentation-icon.svg": "/yisyang/static/media/documentation-icon.29cd96c7190f88435b9e45406422a083.svg"
+    "main.css": "/sdet-async-quiz/static/css/main.69847ccd.css",
+    "main.js": "/sdet-async-quiz/static/js/main.a50bf022.js",
+    "static/js/707.d1949c78.chunk.js": "/sdet-async-quiz/static/js/707.d1949c78.chunk.js",
+    "static/js/249.8624fece.chunk.js": "/sdet-async-quiz/static/js/249.8624fece.chunk.js",
+    "static/js/27.e05dd6df.chunk.js": "/sdet-async-quiz/static/js/27.e05dd6df.chunk.js",
+    "static/media/github-icon.svg": "/sdet-async-quiz/static/media/github-icon.cc72f0952f8f5179b4c3406bed5fb8cc.svg",
+    "index.html": "/sdet-async-quiz/index.html",
+    "static/media/documentation-icon.svg": "/sdet-async-quiz/static/media/documentation-icon.29cd96c7190f88435b9e45406422a083.svg"
   },
   "entrypoints": [
     "static/css/main.69847ccd.css",
-    "static/js/main.49460808.js"
+    "static/js/main.a50bf022.js"
   ]
 }

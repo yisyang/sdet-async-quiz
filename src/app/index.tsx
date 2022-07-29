@@ -21,7 +21,7 @@ export function App() {
   return (
     <BrowserRouter>
       <Helmet
-        titleTemplate="%s - React Boilerplate"
+        titleTemplate="%s - SDET Quiz App"
         defaultTitle="React Boilerplate"
         htmlAttributes={{ lang: i18n.language }}
       >

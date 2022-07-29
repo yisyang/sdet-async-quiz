@@ -10,7 +10,7 @@ export function Features() {
       <Title as="h2">Quiz</Title>
       <SubTitle>Instructions</SubTitle>
       <P>
-        Fill in a <strong>seed value</strong>, then click the{' '}
+        Fill in a <strong>seed value</strong>, then click on the{' '}
         <strong>button</strong>.
       </P>
       <P>
@@ -19,7 +19,7 @@ export function Features() {
         The page will then display a list with{' '}
         <strong>five loading icons</strong>.
         <br />
-        Then between 5-30 seconds later, each loading icon will turn into{' '}
+        Within the next 30 seconds, each loading icon will turn into{' '}
         <strong>pseudo-random values</strong>.
       </P>
       <SubTitle>Task</SubTitle>

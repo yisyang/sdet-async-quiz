@@ -1,5 +1,4 @@
 import * as React from 'react';
-import styled from 'styled-components/macro';
 import { Title } from '../components/Title';
 import { MockAsyncResponse } from './MockAsyncResponse';
 import { P } from '../components/P';

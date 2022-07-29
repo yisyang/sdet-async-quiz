@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 
 env:
-  PUBLIC_URL: /yisyang
+  PUBLIC_URL: /sdet-async-quiz
 
 jobs:
   build:
